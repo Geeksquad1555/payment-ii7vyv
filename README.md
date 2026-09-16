@@ -1,8 +1,10 @@
 September 16, 2026
 
-<!-- notify 1/2 · ti8rbt26 -->
-## Notification 1/2
-Round: Round 1
-To: moozldoozl@yahoo.com, moozpaper@yahoo.com
-At: 2026-09-16 17:38:20
-Id: ti8rbt26
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2
+Round: Round 2
+To: mopar020572@yahoo.com, mopar_man20@yahoo.com
+At: 2026-09-16 17:38:28
+Id: bq1Eq9Nc
